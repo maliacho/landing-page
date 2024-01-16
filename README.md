@@ -3,7 +3,7 @@
 ## Description
 The motive behind this project was to build a landing page using HTML and CSS in order to practice what I learned in my bootcamp while I search for a job! 
 
-It is a single webpage that collects a visitor's contact information. It will have a header and footer, and image with a caption, and a contact form. 
+It is a single webpage that collects a visitor's contact information. It will have a header and footer, contact form, and smooth scroll. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -29,8 +29,10 @@ It is a single webpage that collects a visitor's contact information. It will ha
 - VS Code
 - HTML
 - CSS
+- jQuery
+- JavaScript
 
 ## Deployed Link
-- Link Coming Soon! 
+- https://maliacho.github.io/landing-page/
 
 
