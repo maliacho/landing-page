@@ -17,6 +17,13 @@ It is a single webpage that collects a visitor's contact information. It will ha
 
 ## Contributors
 - Malia Cho - https://github.com/maliacho 
+- Special Thanks to...
+    - Traversy Media : https://youtu.be/y9nlfqT4s9s?si=WoKL1bbRwMszXb3V
+    I followed this video to create this landing page. It was incredibly helpful and got me to stop overthinking.
+    - W3 Schools : https://www.w3schools.com/howto/howto_css_contact_form.asp
+    This is where I got the code for the contact form! 
+
+
 
 ## Technologies Used
 - VS Code
